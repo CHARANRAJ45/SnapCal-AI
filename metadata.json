@@ -1,0 +1,7 @@
+{
+  "name": "Snapcal AI: Nutrition Tracker",
+  "description": "An AI-powered calorie and nutrition tracker. Users can take a photo of their food, and the app uses the Gemini API to analyze the image and provide an instant estimate of its nutritional information.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
