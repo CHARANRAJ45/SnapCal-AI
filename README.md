@@ -1,5 +1,9 @@
+SNAP CAL AI:
+This is calorie estimate web app which is functionaly not using a ML model to train which we use a gen AI Gemini AI API key which more accurate to estimate calorie compared to ML model to train 
 
+the aim of project to estimate calorie and nutrition of food what we eat and and delivery accurate results to the user
 
+as per we need to deploy the web application 
 
 
 This contains everything you need to run your app locally.
